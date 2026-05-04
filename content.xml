@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605040958527U529C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605040958528SBFMZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>La arquitectura del sonido: nuestra BSO con foley. Descripción de la SdA.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Paula Araújo Losas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777853251128</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moq5ic75-t3r5fvl6h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Título. Descripción de la Sda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la Sda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq5ic75-t3r5fvl6h</odePageId>
+      <odeBlockId>block-1776077225886-eu6fsycti</odeBlockId>
+      <blockName>La arquitectura del sonido: nuestra BSO con foley</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq5ic75-t3r5fvl6h</odePageId>
+          <odeBlockId>block-1776077225886-eu6fsycti</odeBlockId>
+          <odeIdeviceId>idevice-1776077225885-zgg041c8i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta propuesta consiste en el diseño y ejecución de la banda sonora integral de un fragmento cinematográfico, donde el alumnado debe integrar de forma creativa diálogos, efectos de sonido (foley) y música para la asignatura de Cultura Audiovisual. El proyecto se estructura bajo una metodología de Aprendizaje Basado en Proyectos (ABP), fomentando el trabajo colaborativo para que los estudiantes asuman responsabilidades de manera autónoma en la resolución creativa del reto. El proceso concluye con la pieza final, con la creación de una infografía interactiva que documenta la toma de decisiones y una presentación oral que refuerza la Competencia en Comunicación Lingüística (CCL).</p>
+<h5>Productos finales</h5>
+<ul>
+<li>Infografía mostrando la planificación del proyecto y las barreras que se han encontrado.</li>
+<li>Vídeo con música, doblaje y efectos de sonido (foley).</li>
+<li>Presentación oral y escrita sobre el proceso.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776077225885-zgg041c8i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta propuesta consiste en el diseño y ejecución de la banda sonora integral de un fragmento cinematográfico, donde el alumnado debe integrar de forma creativa diálogos, efectos de sonido (foley) y música para la asignatura de Cultura Audiovisual. El proyecto se estructura bajo una metodología de Aprendizaje Basado en Proyectos (ABP), fomentando el trabajo colaborativo para que los estudiantes asuman responsabilidades de manera autónoma en la resolución creativa del reto. El proceso concluye con la pieza final, con la creación de una infografía interactiva que documenta la toma de decisiones y una presentación oral que refuerza la Competencia en Comunicación Lingüística (CCL).</p>\n<h5>Productos finales</h5>\n<ul>\n<li>Infografía mostrando la planificación del proyecto y las barreras que se han encontrado.</li>\n<li>Vídeo con música, doblaje y efectos de sonido (foley).</li>\n<li>Presentación oral y escrita sobre el proceso.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777850277820-i6xe6y4hq</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>Etapa educativa y nivel</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Etapa educativa y nivel</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777850277820-i6xe6y4hq</odePageId>
+      <odeBlockId>block-1777850316613-kgv4t7os0</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777850277820-i6xe6y4hq</odePageId>
+          <odeBlockId>block-1777850316613-kgv4t7os0</odeBlockId>
+          <odeIdeviceId>idevice-1777850316610-vv8fdfkr8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se enmarca en el curso <strong>1º de Bachillerato</strong> de la modalidad de <strong>Artes</strong>. En esta modalidad, existen dos vías:</p>
+<ul>
+<li>Vía de <strong>Artes Plásticas, Imagen y Diseño </strong>que cursará la asignatura de Dibujo Artítico I junto con dos modalidades a elegir de entre las cuatro que se encuentra la asignatura de Cultura Audiovisual.</li>
+<li>Vía de <strong>Música y Artes Escénicas</strong> que cursará la asignatura de Análisis Musical I o Artes Escénicas Iunto con dos modalidades a elegir de entre las cinco que se encuentra la asignatura de Cultura Audiovisual.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777850316610-vv8fdfkr8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se enmarca en el curso <strong>1º de Bachillerato</strong> de la modalidad de <strong>Artes</strong>. En esta modalidad, existen dos vías:</p>\n<ul>\n<li>Vía de <strong>Artes Plásticas, Imagen y Diseño </strong>que cursará la asignatura de Dibujo Artítico I junto con dos modalidades a elegir de entre las cuatro que se encuentra la asignatura de Cultura Audiovisual.</li>\n<li>Vía de <strong>Música y Artes Escénicas</strong> que cursará la asignatura de Análisis Musical I o Artes Escénicas Iunto con dos modalidades a elegir de entre las cinco que se encuentra la asignatura de Cultura Audiovisual.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777850480961-o220auvtb</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>Agrupamientos y Organización espacial</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Agrupamientos y Organización espacial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777850480961-o220auvtb</odePageId>
+      <odeBlockId>block-1777850482482-4graely12</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777850480961-o220auvtb</odePageId>
+          <odeBlockId>block-1777850482482-4graely12</odeBlockId>
+          <odeIdeviceId>idevice-1777850482480-g0iuwvqy6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h5>Agrupamientos</h5>
+<p>Durante todo el desarrollo de la SdA se trabajará en grupos heterogéneos de 4 personas, pudiendo hacer subgrupos una vez establecida la planificación de los roles y las tareas a realizar en el equipo.</p>
+<h5>Organización espacial</h5>
+<p>Los grupos se organizarán en mesas de 4 para fomentar la participación activa. Específicamente y en consonancia con la fase del proyecto en la que se encuentren, se modificará en forma de U o en de dos en dos.</p>
+<p>Se utilizará el aula general para las tareas iniciales de presentación de la actividad y para las finales de preparación de la presentación escrita y oral.</p>
+<p>Dependiendo de los recursos utilizados por el alumnado, se usará el aula de música tanto para la recogida de material como para el propio desarrollo de las actividades.</p>
+<p>Adicionalmente, se pedirá permiso explícito para la utilización de un pequeño cuarto que existe de grabación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777850482480-g0iuwvqy6","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<h5>Agrupamientos</h5>\n<p>Durante todo el desarrollo de la SdA se trabajará en grupos heterogéneos de 4 personas, pudiendo hacer subgrupos una vez establecida la planificación de los roles y las tareas a realizar en el equipo.</p>\n<h5>Organización espacial</h5>\n<p>Los grupos se organizarán en mesas de 4 para fomentar la participación activa. Específicamente y en consonancia con la fase del proyecto en la que se encuentren, se modificará en forma de U o en de dos en dos.</p>\n<p>Se utilizará el aula general para las tareas iniciales de presentación de la actividad y para las finales de preparación de la presentación escrita y oral.</p>\n<p>Dependiendo de los recursos utilizados por el alumnado, se usará el aula de música tanto para la recogida de material como para el propio desarrollo de las actividades.</p>\n<p>Adicionalmente, se pedirá permiso explícito para la utilización de un pequeño cuarto que existe de grabación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777850750200-8xu3e45vh</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777850750200-8xu3e45vh</odePageId>
+      <odeBlockId>block-1777850755969-25dg86afz</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777850750200-8xu3e45vh</odePageId>
+          <odeBlockId>block-1777850755969-25dg86afz</odeBlockId>
+          <odeIdeviceId>idevice-1777850755967-mu4k8s5k7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA se enmarca como actividad final del tercer trimestre. Se desarrollará durante <strong>11 sesiones</strong> (4 sesiones lectivas semanales en bloques de dos) de <strong>55 minutos.</strong> </p>
+<p><strong>Sesión 1 </strong>— <strong>Activación + presentación del reto</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Presentación del proyecto, productos finales y evaluación</li>
+<li>Visionado comparado (escena con sonido / sin sonido)</li>
+<li>Debate guiado</li>
+<li>Formación de grupos</li>
+</ul>
+<p><strong>Objetivos: </strong></p>
+<ul>
+<li>Comprender el papel del sonido en la narrativa audiovisual</li>
+<li>Activar pensamiento crítico</li>
+<li>Iniciar dinámicas de equipo<br /></li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>YouTube<br />Microsoft Teams<br />Aula Virtual</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 2 — Análisis</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Análisis profundo de escenas (trabajo guiado + autónomo)</li>
+<li>Identificación de diálogos, música y foley</li>
+<li>Puesta en común + conclusiones<br /></li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Reconocer funciones del sonido</li>
+<li>Analizar intención narrativa</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<ul>
+<li>YouTube</li>
+<li>Aula Virtual</li>
+</ul>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 3 — Definición del proyecto</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Selección del fragmento audiovisual</li>
+<li>Visionado detallado por grupos</li>
+<li>Lluvia de ideas sonora</li>
+<li>Asignación de roles</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Diseñar una propuesta creativa propia</li>
+<li>Organizar el trabajo colaborativo<br /></li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>Microsoft Teams<br />Aula Virtual</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 4 — Planificación profunda</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Elaboración del guion técnico-sonoro detallado</li>
+<li>Identificación de tiempos, entradas y capas</li>
+<li>Inicio de la infografía (estructura base)</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Traducir ideas en planificación concreta</li>
+<li>Comprender la relación tiempo-sonido</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>Genially<br />Aula Virtual</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 5 — Experimentación</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Taller de grabación de voz</li>
+<li>Experimentación con objetos (foley)</li>
+<li>Búsqueda de músicas y recursos libres</li>
+<li>Primeras pruebas de edición</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Desarrollar habilidades técnicas básicas</li>
+<li>Fomentar creatividad sonora</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>CapCut<br />Notas de audio<br />Bancos de sonido</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 6 — Producción</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Grabación de diálogos (doblaje completo)</li>
+<li>Repeticiones y mejora de tomas</li>
+<li>Organización de archivos</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Aplicar técnicas de grabación</li>
+<li>Generar material usable</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>Notas de audio<br />CapCut</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 7 — Producción</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Grabación de efectos foley</li>
+<li>Selección definitiva de músicas</li>
+<li>Inicio de integración en edición</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Crear atmósfera sonora</li>
+<li>Integrar diferentes capas</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>CapCut<br />Instrumentos y/o herramientas necesarias para la realización de los sonidos (foley)</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 8 — Edición</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Sincronización completa sonido-imagen</li>
+<li>Ajustes de ritmo</li>
+<li>Primera versión completa</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Consolidar el montaje audiovisual</li>
+<li>Comprender timing narrativo</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>CapCut</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 9 — Edición + metacognición</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Mejora de audio (volúmenes, transiciones)</li>
+<li>Exportación de versión final</li>
+<li>Desarrollo de la infografía (decisiones + dificultades)</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Refinar el producto final</li>
+<li>Analizar el proceso creativo</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>CapCut<br />Genially</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 10 — Comunicación</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Preparación de presentación oral</li>
+<li>Ensayo con feedback entre grupos</li>
+<li>Ajuste de discurso</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Desarrollar la competencia comunicativa (CCL)</li>
+<li>Sintetizar y estructurar ideas</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>Microsoft Teams<br />Aula Virtual</p>
+<p>-------------------------------------------------------------------</p>
+<p><strong>Sesión 11 — Evaluación y cierre</strong></p>
+<p><strong>Actividades:</strong></p>
+<ul>
+<li>Presentación de proyectos</li>
+<li>Visualización de vídeos</li>
+<li>Exposición de infografías</li>
+<li>Coevaluación + autoevaluación</li>
+<li>Reflexión final</li>
+</ul>
+<p><strong>Objetivos:</strong></p>
+<ul>
+<li>Comunicar el trabajo realizado</li>
+<li>Evaluar proceso y resultado</li>
+<li>Consolidar aprendizajes</li>
+</ul>
+<p><strong>Recursos:</strong></p>
+<p>Microsoft Teams<br />Aula Virtual<br />YouTube</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777850755967-mu4k8s5k7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA se enmarca como actividad final del tercer trimestre. Se desarrollará durante <strong>11 sesiones</strong> (4 sesiones lectivas semanales en bloques de dos) de <strong>55 minutos.</strong> </p>\n<p><strong>Sesión 1 </strong>— <strong>Activación + presentación del reto</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Presentación del proyecto, productos finales y evaluación</li>\n<li>Visionado comparado (escena con sonido / sin sonido)</li>\n<li>Debate guiado</li>\n<li>Formación de grupos</li>\n</ul>\n<p><strong>Objetivos: </strong></p>\n<ul>\n<li>Comprender el papel del sonido en la narrativa audiovisual</li>\n<li>Activar pensamiento crítico</li>\n<li>Iniciar dinámicas de equipo<br /></li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>YouTube<br />Microsoft Teams<br />Aula Virtual</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 2 — Análisis</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Análisis profundo de escenas (trabajo guiado + autónomo)</li>\n<li>Identificación de diálogos, música y foley</li>\n<li>Puesta en común + conclusiones<br /></li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Reconocer funciones del sonido</li>\n<li>Analizar intención narrativa</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<ul>\n<li>YouTube</li>\n<li>Aula Virtual</li>\n</ul>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 3 — Definición del proyecto</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Selección del fragmento audiovisual</li>\n<li>Visionado detallado por grupos</li>\n<li>Lluvia de ideas sonora</li>\n<li>Asignación de roles</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Diseñar una propuesta creativa propia</li>\n<li>Organizar el trabajo colaborativo<br /></li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>Microsoft Teams<br />Aula Virtual</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 4 — Planificación profunda</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Elaboración del guion técnico-sonoro detallado</li>\n<li>Identificación de tiempos, entradas y capas</li>\n<li>Inicio de la infografía (estructura base)</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Traducir ideas en planificación concreta</li>\n<li>Comprender la relación tiempo-sonido</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>Genially<br />Aula Virtual</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 5 — Experimentación</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Taller de grabación de voz</li>\n<li>Experimentación con objetos (foley)</li>\n<li>Búsqueda de músicas y recursos libres</li>\n<li>Primeras pruebas de edición</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Desarrollar habilidades técnicas básicas</li>\n<li>Fomentar creatividad sonora</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>CapCut<br />Notas de audio<br />Bancos de sonido</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 6 — Producción</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Grabación de diálogos (doblaje completo)</li>\n<li>Repeticiones y mejora de tomas</li>\n<li>Organización de archivos</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Aplicar técnicas de grabación</li>\n<li>Generar material usable</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>Notas de audio<br />CapCut</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 7 — Producción</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Grabación de efectos foley</li>\n<li>Selección definitiva de músicas</li>\n<li>Inicio de integración en edición</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Crear atmósfera sonora</li>\n<li>Integrar diferentes capas</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>CapCut<br />Instrumentos y/o herramientas necesarias para la realización de los sonidos (foley)</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 8 — Edición</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Sincronización completa sonido-imagen</li>\n<li>Ajustes de ritmo</li>\n<li>Primera versión completa</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Consolidar el montaje audiovisual</li>\n<li>Comprender timing narrativo</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>CapCut</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 9 — Edición + metacognición</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Mejora de audio (volúmenes, transiciones)</li>\n<li>Exportación de versión final</li>\n<li>Desarrollo de la infografía (decisiones + dificultades)</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Refinar el producto final</li>\n<li>Analizar el proceso creativo</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>CapCut<br />Genially</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 10 — Comunicación</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Preparación de presentación oral</li>\n<li>Ensayo con feedback entre grupos</li>\n<li>Ajuste de discurso</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Desarrollar la competencia comunicativa (CCL)</li>\n<li>Sintetizar y estructurar ideas</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>Microsoft Teams<br />Aula Virtual</p>\n<p>-------------------------------------------------------------------</p>\n<p><strong>Sesión 11 — Evaluación y cierre</strong></p>\n<p><strong>Actividades:</strong></p>\n<ul>\n<li>Presentación de proyectos</li>\n<li>Visualización de vídeos</li>\n<li>Exposición de infografías</li>\n<li>Coevaluación + autoevaluación</li>\n<li>Reflexión final</li>\n</ul>\n<p><strong>Objetivos:</strong></p>\n<ul>\n<li>Comunicar el trabajo realizado</li>\n<li>Evaluar proceso y resultado</li>\n<li>Consolidar aprendizajes</li>\n</ul>\n<p><strong>Recursos:</strong></p>\n<p>Microsoft Teams<br />Aula Virtual<br />YouTube</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777851680168-jebusvroy</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>Herramientas tecnológicas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas tecnológicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777851680168-jebusvroy</odePageId>
+      <odeBlockId>block-1777851685035-0xqv1ym2g</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777851680168-jebusvroy</odePageId>
+          <odeBlockId>block-1777851685035-0xqv1ym2g</odeBlockId>
+          <odeIdeviceId>idevice-1777851685034-6c8w8w51a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Docente:</strong> eXeLearning, Aula virtual, Teams, EduScrum, Genially, Forms.</p>
+<p><strong>Alumnado:</strong> procesadores de texto (Word, Genially), herramientas de grabación de vídeo y sonido (cámara de móvil, cámara de fotografía digital, CapCut, Canva Vídeo). Plataformas como OneDrive, Aula Virtual, Teams para la difusión de su trabajo.</p>
+<p><strong>Recursos complementarios: </strong></p>
+<p>YouTube:</p>
+<p>Explicación detallada sobre qué es el foley: <a href="https://youtu.be/mYdS0LBFHYA" title="">https://youtu.be/mYdS0LBFHYA</a>;</p>
+<p>Cómo se crean sonidos: <a href="https://youtu.be/mYdS0LBFHYA" title="">https://youtu.be/eBX_tU-hNtI </a>y <a href="https://youtu.be/si5mIonwAS4">https://youtu.be/si5mIonwAS4</a>) </p>
+<p>Perfiles de referencia e inspiración:</p>
+<p><a href="https://youtu.be/KcHJgJCIGUg" title="">@JoshHarmon</a></p>
+<p><a href="https://youtu.be/CM7kHe8FjOU" title="">@TheTinyChefShow</a></p>
+<p><a href="https://youtu.be/d7e8uZiqPWk" title="">@andreagiorgialove</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777851685034-6c8w8w51a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Docente:</strong> eXeLearning, Aula virtual, Teams, EduScrum, Genially, Forms.</p>\n<p><strong>Alumnado:</strong> procesadores de texto (Word, Genially), herramientas de grabación de vídeo y sonido (cámara de móvil, cámara de fotografía digital, CapCut, Canva Vídeo). Plataformas como OneDrive, Aula Virtual, Teams para la difusión de su trabajo.</p>\n<p><strong>Recursos complementarios: </strong></p>\n<p>YouTube:</p>\n<p>Explicación detallada sobre qué es el foley: <a href=\"https://youtu.be/mYdS0LBFHYA\" title=\"\">https://youtu.be/mYdS0LBFHYA</a>;</p>\n<p>Cómo se crean sonidos: <a href=\"https://youtu.be/mYdS0LBFHYA\" title=\"\">https://youtu.be/eBX_tU-hNtI </a>y <a href=\"https://youtu.be/si5mIonwAS4\">https://youtu.be/si5mIonwAS4</a>) </p>\n<p>Perfiles de referencia e inspiración:</p>\n<p><a href=\"https://youtu.be/KcHJgJCIGUg\" title=\"\">@JoshHarmon</a></p>\n<p><a href=\"https://youtu.be/CM7kHe8FjOU\" title=\"\">@TheTinyChefShow</a></p>\n<p><a href=\"https://youtu.be/d7e8uZiqPWk\" title=\"\">@andreagiorgialove</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777841931968-97r5pmqhn</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777838391752-hcag4jyfa</odePageId>
+  <odeParentPageId>page-1777841931968-97r5pmqhn</odeParentPageId>
+  <pageName>Justificación de desarrollo</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación de desarrollo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Justificación de desarrollo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777838391752-hcag4jyfa</odePageId>
+      <odeBlockId>block-1777838416075-9eda7pljj</odeBlockId>
+      <blockName>1.1 Justificación de desarrollo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777838391752-hcag4jyfa</odePageId>
+          <odeBlockId>block-1777838416075-9eda7pljj</odeBlockId>
+          <odeIdeviceId>idevice-1777838416073-wizrho6qv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El desarrollo de esta SdA se justifica por la necesidad de dotar al alumnado de herramientas para el procesamiento crítico de la información audiovisual en un mundo donde este medio es el principal transmisor de ideas.<br />Asimismo, responde, también, a la necesidad de implementar situaciones de aprendizaje significativas y relevantes que integren los elementos curriculares de forma cooperativa. Se fundamenta en el Diseño Universal para el Aprendizaje (DUA), partiendo de las motivaciones del alumnado y permitiéndoles construir el conocimiento con autonomía e iniciativa. Esta propuesta aborda el desafío de la alfabetización mediática, permitiendo que el alumnado deje de ser espectador pasivo y aprenda a comunicarse con el lenguaje audiovisual, haciendo suya la idea del error como oportunidad de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777838416073-wizrho6qv","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>El desarrollo de esta SdA se justifica por la necesidad de dotar al alumnado de herramientas para el procesamiento crítico de la información audiovisual en un mundo donde este medio es el principal transmisor de ideas.<br />Asimismo, responde, también, a la necesidad de implementar situaciones de aprendizaje significativas y relevantes que integren los elementos curriculares de forma cooperativa. Se fundamenta en el Diseño Universal para el Aprendizaje (DUA), partiendo de las motivaciones del alumnado y permitiéndoles construir el conocimiento con autonomía e iniciativa. Esta propuesta aborda el desafío de la alfabetización mediática, permitiendo que el alumnado deje de ser espectador pasivo y aprenda a comunicarse con el lenguaje audiovisual, haciendo suya la idea del error como oportunidad de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777838503047-kffks5n9b</odePageId>
+  <odeParentPageId>page-1777841931968-97r5pmqhn</odeParentPageId>
+  <pageName>Impacto esperado</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Impacto esperado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777838503047-kffks5n9b</odePageId>
+      <odeBlockId>block-1777838527730-fj8j5k0hw</odeBlockId>
+      <blockName>1.2 Impacto esperado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777838503047-kffks5n9b</odePageId>
+          <odeBlockId>block-1777838527730-fj8j5k0hw</odeBlockId>
+          <odeIdeviceId>idevice-1777838527728-upbhkgdxl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El impacto de esta situación de aprendizaje va más allá del aula ya que busca una formación integral que prepara al alumnado para su futuro personal, académico y profesional. Se detallan los puntos por área de impacto a continuación:</p>
+<ul>
+<li><strong>Desarrollo competencial:</strong> se espera una adquisición notable de la Competencia Digital (CD) al incorporar dispositivos y herramientas para la creación de contenidos propios, y de la Competencia en Conciencia y Expresión Culturales (CCEC) al utilizar el sonido como medio de expresión artística.</li>
+<li><strong>Crecimiento Personal:</strong> Al exponer sus trabajos en público, el alumnado desarrolla su inteligencia emocional, la humildad y la autoconfianza, convirtiéndose en espectador crítico de su propia obra y de las ajenas.</li>
+<li><strong>Rigor Ético:</strong> Se espera que el alumnado aprenda a utilizar los medios de producción con rigor ético y formal, respetando siempre la propiedad intelectual y los derechos de autoría.</li>
+<li><strong>Transformación Social:</strong> Al reflexionar sobre el uso de un lenguaje inclusivo y la representación no sexista en sus producciones, el alumnado desarrolla una conciencia cívica responsable y comprometida con los valores democráticos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777838527728-upbhkgdxl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El impacto de esta situación de aprendizaje va más allá del aula ya que busca una formación integral que prepara al alumnado para su futuro personal, académico y profesional. Se detallan los puntos por área de impacto a continuación:</p>\n<ul>\n<li><strong>Desarrollo competencial:</strong> se espera una adquisición notable de la Competencia Digital (CD) al incorporar dispositivos y herramientas para la creación de contenidos propios, y de la Competencia en Conciencia y Expresión Culturales (CCEC) al utilizar el sonido como medio de expresión artística.</li>\n<li><strong>Crecimiento Personal:</strong> Al exponer sus trabajos en público, el alumnado desarrolla su inteligencia emocional, la humildad y la autoconfianza, convirtiéndose en espectador crítico de su propia obra y de las ajenas.</li>\n<li><strong>Rigor Ético:</strong> Se espera que el alumnado aprenda a utilizar los medios de producción con rigor ético y formal, respetando siempre la propiedad intelectual y los derechos de autoría.</li>\n<li><strong>Transformación Social:</strong> Al reflexionar sobre el uso de un lenguaje inclusivo y la representación no sexista en sus producciones, el alumnado desarrolla una conciencia cívica responsable y comprometida con los valores democráticos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777838865623-xqqb5caoh</odePageId>
+  <odeParentPageId>page-1777841931968-97r5pmqhn</odeParentPageId>
+  <pageName>Relación con los ODS y Retos del siglo XXI</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación con los ODS y Retos del siglo XXI</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777838865623-xqqb5caoh</odePageId>
+      <odeBlockId>block-1777838870918-q5rwgp85f</odeBlockId>
+      <blockName>Relación con los ODS y Retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777838865623-xqqb5caoh</odePageId>
+          <odeBlockId>block-1777838870918-q5rwgp85f</odeBlockId>
+          <odeIdeviceId>idevice-1777838870917-n7u1llfch</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2><span style="color: #843fa1;">Relación con ODS</span></h2>
+<p>El currículo de Cultura Audiovisual en Asturias establece que la materia debe garantizar aprendizajes acordes con los ODS (Objetivos de Desarrollo Sostenible) de la Agenda 2030. De acuerdo con el Decreto 60/2022 del Principado de Asturias. Para esta situación de aprendizaje, se vincula con los ODS:</p>
+<p><img src="{{context_path}}/content/resources/todos.png" title="ODS Objetivos de Desarrollo Sostenible 2030" width="1512" height="351" alt="ODS Objetivos de Desarrollo Sostenible 2030" /></p>
+<ul>
+<li><strong>ODS 4: Educación de calidad: </strong>La actividad promueve la alfabetización mediática, permitiendo que el alumnado pase de ser un espectador pasivo a un creador con herramientas para el procesamiento crítico de la información.</li>
+<li><strong>ODS 5: Igualdad de género: </strong>Se analizan los estereotipos dentro de la ficción y se promueve un lenguaje inclusivo y respetuoso en los doblajes y guiones. </li>
+<li><strong>ODS 10: Reduccción de las desigualdades: </strong>El carácter colaborativo del aprendizaje proyectual propuesto garantiza los valores de igualdad de trato y no discriminación.</li>
+</ul>
+<h2><span style="color: #843fa1;">Relación con retos del siglo XXI</span></h2>
+<p>La situación de aprendizaje propuesta responde a los retos y desafíos globales que el alumnado debe afrontar para la adquisición de una formación integral:</p>
+<ul>
+<li><strong>Alfabetización mediática e informacional</strong>: En un mundo donde el audiovisual y la tecnología es el principal transmisor de ideas, el alumnado asume el reto de comprender su sintaxis y mensajes para evitar la manipulación y hace un uso crítico de los medios audiovisuales.</li>
+<li><strong>Gestión ética de la cultura digital:</strong> El uso de aplicaciones de edición y su difusión requiere que el alumnado aprenda a actuar con rigor ético y formal, respetando siempre la propiedad intelectual.</li>
+<li><strong>Aceptación de la incertidumbre y el error:</strong> El error debe verse como oportunidad de mejora. Al identificar las "barreras encontradas" en su infografía, el alumnado trabaja la resiliencia y la autoconfianza.</li>
+<li><strong>Competencia en comunicación ecosocial: </strong>Al diseñar producciones para un público, el alumnado evalúa el impacto de sus mensajes y desarrolla una conciencia cívica responsable y democrática.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777838870917-n7u1llfch","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2><span style=\"color: #843fa1;\">Relación con ODS</span></h2>\n<p>El currículo de Cultura Audiovisual en Asturias establece que la materia debe garantizar aprendizajes acordes con los ODS (Objetivos de Desarrollo Sostenible) de la Agenda 2030. De acuerdo con el Decreto 60/2022 del Principado de Asturias. Para esta situación de aprendizaje, se vincula con los ODS:</p>\n<p><img src=\"{{context_path}}/content/resources/todos.png\" title=\"ODS Objetivos de Desarrollo Sostenible 2030\" width=\"1512\" height=\"351\" alt=\"ODS Objetivos de Desarrollo Sostenible 2030\" /></p>\n<ul>\n<li><strong>ODS 4: Educación de calidad: </strong>La actividad promueve la alfabetización mediática, permitiendo que el alumnado pase de ser un espectador pasivo a un creador con herramientas para el procesamiento crítico de la información.</li>\n<li><strong>ODS 5: Igualdad de género: </strong>Se analizan los estereotipos dentro de la ficción y se promueve un lenguaje inclusivo y respetuoso en los doblajes y guiones. </li>\n<li><strong>ODS 10: Reduccción de las desigualdades: </strong>El carácter colaborativo del aprendizaje proyectual propuesto garantiza los valores de igualdad de trato y no discriminación.</li>\n</ul>\n<h2><span style=\"color: #843fa1;\">Relación con retos del siglo XXI</span></h2>\n<p>La situación de aprendizaje propuesta responde a los retos y desafíos globales que el alumnado debe afrontar para la adquisición de una formación integral:</p>\n<ul>\n<li><strong>Alfabetización mediática e informacional</strong>: En un mundo donde el audiovisual y la tecnología es el principal transmisor de ideas, el alumnado asume el reto de comprender su sintaxis y mensajes para evitar la manipulación y hace un uso crítico de los medios audiovisuales.</li>\n<li><strong>Gestión ética de la cultura digital:</strong> El uso de aplicaciones de edición y su difusión requiere que el alumnado aprenda a actuar con rigor ético y formal, respetando siempre la propiedad intelectual.</li>\n<li><strong>Aceptación de la incertidumbre y el error:</strong> El error debe verse como oportunidad de mejora. Al identificar las \"barreras encontradas\" en su infografía, el alumnado trabaja la resiliencia y la autoconfianza.</li>\n<li><strong>Competencia en comunicación ecosocial: </strong>Al diseñar producciones para un público, el alumnado evalúa el impacto de sus mensajes y desarrolla una conciencia cívica responsable y democrática.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq5ic76-q7nkgxnav</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777839967643-6tft7ipa6</odePageId>
+  <odeParentPageId>page-moq5ic76-q7nkgxnav</odeParentPageId>
+  <pageName>Competencias clave y Descriptores Operativos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias clave y Descriptores Operativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Competencias clave y Descriptores Operativos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777839967643-6tft7ipa6</odePageId>
+      <odeBlockId>block-1777840116731-ioqu6k7fg</odeBlockId>
+      <blockName>Competencias Clave</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777839967643-6tft7ipa6</odePageId>
+          <odeBlockId>block-1777840116731-ioqu6k7fg</odeBlockId>
+          <odeIdeviceId>idevice-1777840116730-f9zl1erji</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se analiza la vinculación de la situación de aprendizaje con las competencias clave y sus descriptores operativos.</p>
+<table border="1" cellpadding="10" cellspacing="10" class="exe-table" style="width: 100%; border-color: #95a5a6; border-style: solid;">
+<tbody>
+<tr>
+<td style="width: 25.9128%; background-color: #ced4d9;"><strong>Competencia Clave (CC)</strong></td>
+<td style="width: 29.2097%; background-color: #ced4d9;"><strong>Descriptores Operativos (DO)</strong></td>
+<td style="width: 44.8774%; background-color: #ced4d9;"><strong>Vinculación</strong></td>
+</tr>
+<tr>
+<td style="width: 25.9128%;"><strong>Competencia Digital (CD)</strong></td>
+<td style="width: 29.2097%;">CD2 y CD3</td>
+<td style="width: 44.8774%;">
+<ul>
+<li>Utilizar dispositivos y herramientas digitales para comunicarse y trabajar colaborativamente, haciendo un uso responsable de la presencia en la red.</li>
+<li>Crear, integrar y reelaborar contenidos digitales respetando los derechos de autoría</li>
+<li>Seleccionar y configurar herramientas digitales para el trabajo cooperativo y el intercambio de información</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 25.9128%;"><strong>Competencia STEM</strong></td>
+<td style="width: 29.2097%;">STEM3</td>
+<td style="width: 44.8774%;">
+<ul>
+<li>Planear y desarrollar proyectos utilizando el trabajo colaborativo y evaluando el impacto de los resultados</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 25.9128%;"><strong>Competencia Personal, Social y de Aprender a Aprender (CPSAA)</strong></td>
+<td style="width: 29.2097%;">CPSAA1.1, CPSAA1.2 y CPSAA3.1 </td>
+<td style="width: 44.8774%;">
+<ul>
+<li>Fortalecer la resiliencia ante el error creativo y desarrollar una personalidad autónoma para dirigir el propio aprendizaje.</li>
+<li>Participar en el trabajo en grupo con empatía, aceptando responsabilidades de manera equitativa</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 25.9128%;"><strong>Competencia ciudadana (CC)</strong></td>
+<td style="width: 29.2097%;">CC3</td>
+<td style="width: 44.8774%;">
+<ul>
+<li>Adoptar un juicio propio ante problemas éticos y rechazar cualquier tipo de discriminación en los mensajes producidos</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 25.9128%;"><strong>Competencia Emprendedora (CE)</strong></td>
+<td style="width: 29.2097%;">CE2 y CE3</td>
+<td style="width: 44.8774%;">
+<ul>
+<li>Llevar a cabo el proceso de creación de ideas, considerando tanto el éxito como el fracaso una oportunidad para aprender.</li>
+<li>Aplicar estrategias que agilicen el trabajo en equipo y optimicen los recursos necesarios para la acción</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 25.9128%;"><strong>Competencia en Conciencia y Expresión Culturales (CCEC)</strong></td>
+<td style="width: 29.2097%;">CCEC3.1 , CCEC3.2, CCEC4.1  y CCEC4.2</td>
+<td style="width: 44.8774%;">
+<ul>
+<li>Expresar ideas con creatividad y espíritu crítico, descubriendo la autoexpresión a través de la experimentación con lenguajes artísticos.</li>
+<li>Seleccionar técnicas audiovisuales y sonoras para producir proyectos sostenibles, valorando tanto el proceso como el producto final.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Se trabajarán los siguientes Objetivos de Etapa:</p>
+<p><strong>Objetivo g - Uso de la tecnología:</strong> La SdA requiere que el alumnado aprenda a utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación para la grabación, edición y mezcla de la banda sonora, así como para la creación de la infografía interactiva.<br /><strong>Objetivo e - Dominio de la expresión lingüística:</strong> Al realizar una presentación oral y escrita del trabajo y elaborar el guion literario para el doblaje y la narración, el alumnado trabaja en dominar, tanto en su expresión oral como escrita, la lengua castellana.<br /><strong>Objetivo k - Espíritu emprendedor y trabajo en equipo:</strong> La metodología de Aprendizaje Basado en Proyectos (ABP) y el enfoque colaborativo de la actividad están diseñados para afianzar el espíritu emprendedor con actitudes de creatividad, flexibilidad, iniciativa, trabajo en equipo, confianza en uno mismo y sentido crítico.<br /><strong>Objetivo l - Sensibilidad artística y criterio estético:</strong> La realización de un ejercicio de doblaje es una actividad creativa que permite desarrollar la sensibilidad artística y literaria, así como el criterio estético, utilizándolos como fuentes de formación y enriquecimiento cultural.<br /><strong>Objetivo b - Madurez personal y responsabilidad: </strong>Al trabajar de forma proyectual y autónoma, identificando barreras y tomando decisiones creativas, el alumnado avanza en consolidar una madurez personal y social que le permita actuar de forma responsable y autónoma.<br /><strong>Objetivo c - Igualdad de género y no discriminación:</strong> La SdA se vincula con este objetivo al fomentar, a través de la creación del guion y el doblaje, la igualdad real y la no discriminación por cualquier condición personal o social, evitando sesgos de género en la producción.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777840116730-f9zl1erji","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se analiza la vinculación de la situación de aprendizaje con las competencias clave y sus descriptores operativos.</p>\n<table border=\"1\" cellpadding=\"10\" cellspacing=\"10\" class=\"exe-table\" style=\"width: 100%; border-color: #95a5a6; border-style: solid;\">\n<tbody>\n<tr>\n<td style=\"width: 25.9128%; background-color: #ced4d9;\"><strong>Competencia Clave (CC)</strong></td>\n<td style=\"width: 29.2097%; background-color: #ced4d9;\"><strong>Descriptores Operativos (DO)</strong></td>\n<td style=\"width: 44.8774%; background-color: #ced4d9;\"><strong>Vinculación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 25.9128%;\"><strong>Competencia Digital (CD)</strong></td>\n<td style=\"width: 29.2097%;\">CD2 y CD3</td>\n<td style=\"width: 44.8774%;\">\n<ul>\n<li>Utilizar dispositivos y herramientas digitales para comunicarse y trabajar colaborativamente, haciendo un uso responsable de la presencia en la red.</li>\n<li>Crear, integrar y reelaborar contenidos digitales respetando los derechos de autoría</li>\n<li>Seleccionar y configurar herramientas digitales para el trabajo cooperativo y el intercambio de información</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 25.9128%;\"><strong>Competencia STEM</strong></td>\n<td style=\"width: 29.2097%;\">STEM3</td>\n<td style=\"width: 44.8774%;\">\n<ul>\n<li>Planear y desarrollar proyectos utilizando el trabajo colaborativo y evaluando el impacto de los resultados</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 25.9128%;\"><strong>Competencia Personal, Social y de Aprender a Aprender (CPSAA)</strong></td>\n<td style=\"width: 29.2097%;\">CPSAA1.1, CPSAA1.2 y CPSAA3.1 </td>\n<td style=\"width: 44.8774%;\">\n<ul>\n<li>Fortalecer la resiliencia ante el error creativo y desarrollar una personalidad autónoma para dirigir el propio aprendizaje.</li>\n<li>Participar en el trabajo en grupo con empatía, aceptando responsabilidades de manera equitativa</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 25.9128%;\"><strong>Competencia ciudadana (CC)</strong></td>\n<td style=\"width: 29.2097%;\">CC3</td>\n<td style=\"width: 44.8774%;\">\n<ul>\n<li>Adoptar un juicio propio ante problemas éticos y rechazar cualquier tipo de discriminación en los mensajes producidos</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 25.9128%;\"><strong>Competencia Emprendedora (CE)</strong></td>\n<td style=\"width: 29.2097%;\">CE2 y CE3</td>\n<td style=\"width: 44.8774%;\">\n<ul>\n<li>Llevar a cabo el proceso de creación de ideas, considerando tanto el éxito como el fracaso una oportunidad para aprender.</li>\n<li>Aplicar estrategias que agilicen el trabajo en equipo y optimicen los recursos necesarios para la acción</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 25.9128%;\"><strong>Competencia en Conciencia y Expresión Culturales (CCEC)</strong></td>\n<td style=\"width: 29.2097%;\">CCEC3.1 , CCEC3.2, CCEC4.1  y CCEC4.2</td>\n<td style=\"width: 44.8774%;\">\n<ul>\n<li>Expresar ideas con creatividad y espíritu crítico, descubriendo la autoexpresión a través de la experimentación con lenguajes artísticos.</li>\n<li>Seleccionar técnicas audiovisuales y sonoras para producir proyectos sostenibles, valorando tanto el proceso como el producto final.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Se trabajarán los siguientes Objetivos de Etapa:</p>\n<p><strong>Objetivo g - Uso de la tecnología:</strong> La SdA requiere que el alumnado aprenda a utilizar con solvencia y responsabilidad las tecnologías de la información y la comunicación para la grabación, edición y mezcla de la banda sonora, así como para la creación de la infografía interactiva.<br /><strong>Objetivo e - Dominio de la expresión lingüística:</strong> Al realizar una presentación oral y escrita del trabajo y elaborar el guion literario para el doblaje y la narración, el alumnado trabaja en dominar, tanto en su expresión oral como escrita, la lengua castellana.<br /><strong>Objetivo k - Espíritu emprendedor y trabajo en equipo:</strong> La metodología de Aprendizaje Basado en Proyectos (ABP) y el enfoque colaborativo de la actividad están diseñados para afianzar el espíritu emprendedor con actitudes de creatividad, flexibilidad, iniciativa, trabajo en equipo, confianza en uno mismo y sentido crítico.<br /><strong>Objetivo l - Sensibilidad artística y criterio estético:</strong> La realización de un ejercicio de doblaje es una actividad creativa que permite desarrollar la sensibilidad artística y literaria, así como el criterio estético, utilizándolos como fuentes de formación y enriquecimiento cultural.<br /><strong>Objetivo b - Madurez personal y responsabilidad: </strong>Al trabajar de forma proyectual y autónoma, identificando barreras y tomando decisiones creativas, el alumnado avanza en consolidar una madurez personal y social que le permita actuar de forma responsable y autónoma.<br /><strong>Objetivo c - Igualdad de género y no discriminación:</strong> La SdA se vincula con este objetivo al fomentar, a través de la creación del guion y el doblaje, la igualdad real y la no discriminación por cualquier condición personal o social, evitando sesgos de género en la producción.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777839982700-4dmvrnu5l</odePageId>
+  <odeParentPageId>page-moq5ic76-q7nkgxnav</odeParentPageId>
+  <pageName>Competencias específicas</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Competencias específicas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777839982700-4dmvrnu5l</odePageId>
+      <odeBlockId>block-1777841559164-q6ed89w2y</odeBlockId>
+      <blockName>Competencias específicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777839982700-4dmvrnu5l</odePageId>
+          <odeBlockId>block-1777841559164-q6ed89w2y</odeBlockId>
+          <odeIdeviceId>idevice-1777841559162-dqp3mhfqw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se detallan las Competencias Específicas (CE) que se trabajan en esta situación de aprendizaje:</p>
+<table border="1" class="exe-table" cellpadding="1o" cellspacing="10" style="width: 100%; border-color: #95a5a6;">
+<tbody>
+<tr>
+<td style="width: 33.1177%; background-color: #ced4d9;"><strong>Competencias Específicas (CE)</strong></td>
+<td style="width: 67.0001%; background-color: #ced4d9;"><strong>Descripción</strong></td>
+</tr>
+<tr>
+<td style="width: 33.1177%;">
+<p><strong>Competencia Específica 2</strong></p>
+<p><strong>(CE2)</strong></p>
+</td>
+<td style="width: 67.0001%;">
+<p>Elaborar producciones audiovisuales individuales o colectivas, empleando la propia presencia en la imagen y la banda de sonido y evaluando el rigor ético y formal de los procedimientos, para expresar y comunicar ideas, opiniones y sentimientos y construir una personalidad creativa abierta, amplia y diversa.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 33.1177%;">
+<p><strong>Competencia Específica 3</strong></p>
+<p><strong>(CE3)</strong></p>
+</td>
+<td style="width: 67.0001%;">
+<p>Seleccionar y utilizar las técnicas, herramientas y convenciones del lenguaje y la producción audiovisual, teniendo en cuenta todos sus aspectos (guion, planificación, interpretación, grabación, edición, etc.), para realizar creaciones audiovisuales de forma colectiva y aprender a desenvolverse en circunstancias diversas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777841559162-dqp3mhfqw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se detallan las Competencias Específicas (CE) que se trabajan en esta situación de aprendizaje:</p>\n<table border=\"1\" class=\"exe-table\" cellpadding=\"1o\" cellspacing=\"10\" style=\"width: 100%; border-color: #95a5a6;\">\n<tbody>\n<tr>\n<td style=\"width: 33.1177%; background-color: #ced4d9;\"><strong>Competencias Específicas (CE)</strong></td>\n<td style=\"width: 67.0001%; background-color: #ced4d9;\"><strong>Descripción</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.1177%;\">\n<p><strong>Competencia Específica 2</strong></p>\n<p><strong>(CE2)</strong></p>\n</td>\n<td style=\"width: 67.0001%;\">\n<p>Elaborar producciones audiovisuales individuales o colectivas, empleando la propia presencia en la imagen y la banda de sonido y evaluando el rigor ético y formal de los procedimientos, para expresar y comunicar ideas, opiniones y sentimientos y construir una personalidad creativa abierta, amplia y diversa.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 33.1177%;\">\n<p><strong>Competencia Específica 3</strong></p>\n<p><strong>(CE3)</strong></p>\n</td>\n<td style=\"width: 67.0001%;\">\n<p>Seleccionar y utilizar las técnicas, herramientas y convenciones del lenguaje y la producción audiovisual, teniendo en cuenta todos sus aspectos (guion, planificación, interpretación, grabación, edición, etc.), para realizar creaciones audiovisuales de forma colectiva y aprender a desenvolverse en circunstancias diversas.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777839991280-zkr25pr67</odePageId>
+  <odeParentPageId>page-moq5ic76-q7nkgxnav</odeParentPageId>
+  <pageName>Saberes Básicos</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Saberes Básicos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Saberes Básicos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777839991280-zkr25pr67</odePageId>
+      <odeBlockId>block-1777842449106-jznr2ofv9</odeBlockId>
+      <blockName>Saberes Básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777839991280-zkr25pr67</odePageId>
+          <odeBlockId>block-1777842449106-jznr2ofv9</odeBlockId>
+          <odeIdeviceId>idevice-1777842449100-ktvifuy1h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se detallan en esta tabla los saberes básicos que se movilizan para la adquisición de las competencias específicas de la materia de Cultura Audiovisual:</p>
+<ul>
+<li>
+<h5><strong>Bloque C: Narrativa audiovisual</strong></h5>
+<br />Es el eje central de la actividad, ya que se centra en la construcción del relato:<br />- <strong>La banda de sonido:</strong> Se trabajan las posibilidades expresivas del sonido.<br />- <strong>El guion literario:</strong> Crucial para las fases de narración y doblaje, incluyendo la elaboración de diálogos y la estructura de la escena o secuencia.<br />- <strong>El montaje y la postproducción: </strong>Saberes relativos al montaje necesarios para sincronizar los efectos, la música y las voces con la imagen.</li>
+</ul>
+<p><br /></p>
+<ul>
+<li>
+<h5><strong>Bloque D: La producción audiovisual. Técnicas y procedimientos</strong></h5>
+<br />Este bloque dota al alumnado de las destrezas técnicas y organizativas para el trabajo proyectual:<br /><strong>- Equipos humanos de trabajo: </strong>Organización de los roles, centrándose en la figura del responsable de sonido y la distribución de tareas según habilidades.<br /><strong>- Fases de trabajo:</strong> Ejecución del proyecto a través de la preproducción (planificación), rodaje (grabación) y postproducción (edición final).<br /><strong>- Medios técnicos de realización:</strong> Uso de herramientas específicas como la microfonía y dispositivos de grabación.<br /><strong>- Grabación de sonido:</strong> Diferenciación y aplicación de sonido de una manera síncrona.<br /><strong>- Software de edición no lineal:</strong> Aplicaciones digitales para la mezcla de audio y la creación de la infografía interactiva.<br /><strong>- Propiedad intelectual y derechos de autoría:</strong> Saber fundamental para la selección legal de la música y la protección de la producción propia.<br /><strong>- Estrategias de evaluación:</strong> Saberes aplicados durante la fase final para valorar la eficacia del producto y el proceso de trabajo en equipo.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777842449100-ktvifuy1h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se detallan en esta tabla los saberes básicos que se movilizan para la adquisición de las competencias específicas de la materia de Cultura Audiovisual:</p>\n<ul>\n<li>\n<h5><strong>Bloque C: Narrativa audiovisual</strong></h5>\n<br />Es el eje central de la actividad, ya que se centra en la construcción del relato:<br />- <strong>La banda de sonido:</strong> Se trabajan las posibilidades expresivas del sonido.<br />- <strong>El guion literario:</strong> Crucial para las fases de narración y doblaje, incluyendo la elaboración de diálogos y la estructura de la escena o secuencia.<br />- <strong>El montaje y la postproducción: </strong>Saberes relativos al montaje necesarios para sincronizar los efectos, la música y las voces con la imagen.</li>\n</ul>\n<p><br /></p>\n<ul>\n<li>\n<h5><strong>Bloque D: La producción audiovisual. Técnicas y procedimientos</strong></h5>\n<br />Este bloque dota al alumnado de las destrezas técnicas y organizativas para el trabajo proyectual:<br /><strong>- Equipos humanos de trabajo: </strong>Organización de los roles, centrándose en la figura del responsable de sonido y la distribución de tareas según habilidades.<br /><strong>- Fases de trabajo:</strong> Ejecución del proyecto a través de la preproducción (planificación), rodaje (grabación) y postproducción (edición final).<br /><strong>- Medios técnicos de realización:</strong> Uso de herramientas específicas como la microfonía y dispositivos de grabación.<br /><strong>- Grabación de sonido:</strong> Diferenciación y aplicación de sonido de una manera síncrona.<br /><strong>- Software de edición no lineal:</strong> Aplicaciones digitales para la mezcla de audio y la creación de la infografía interactiva.<br /><strong>- Propiedad intelectual y derechos de autoría:</strong> Saber fundamental para la selección legal de la música y la protección de la producción propia.<br /><strong>- Estrategias de evaluación:</strong> Saberes aplicados durante la fase final para valorar la eficacia del producto y el proceso de trabajo en equipo.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777840001084-bsz1k2k14</odePageId>
+  <odeParentPageId>page-moq5ic76-q7nkgxnav</odeParentPageId>
+  <pageName>Criterios de evaluación relacionados</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación relacionados</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación relacionados</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777840001084-bsz1k2k14</odePageId>
+      <odeBlockId>block-1777843157336-0zrycwk41</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777840001084-bsz1k2k14</odePageId>
+          <odeBlockId>block-1777843157336-0zrycwk41</odeBlockId>
+          <odeIdeviceId>idevice-1777843157334-o471311ht</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los Criterios de Evaluación que nos servirán, junto con los instrumentos y herramientas de evaluación para la calificación de esta situación de aprendizaje, están estrechamente vinculados con la adquisición de las Competencias Específicas detalladas en el anterior punto.</p>
+<h5>Para la CE2:</h5>
+<ul>
+<li><strong>Criterio 2.2</strong> - Se evalúa la capacidad de analizar mensajes, identificar manipulaciones y respetar los derechos de autoría.</li>
+<li><strong>Criterio 2.3 </strong>- Se valora la ejecución técnica de la producción, incluyendo el uso expresivo del sonido atendiendo a sus características formales.</li>
+</ul>
+<h5>Para la CE3:</h5>
+<ul>
+<li><strong>Criterio 3.3</strong> - Evalúa la habilidad para resolver problemas surgidos durante la producción mediante una planificación abierta y flexible.</li>
+<li><strong>Criterio 3.4</strong> - Valora el uso correcto de las convenciones del lenguaje audiovisual y la eficacia del trabajo en equipo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843157334-o471311ht","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Los Criterios de Evaluación que nos servirán, junto con los instrumentos y herramientas de evaluación para la calificación de esta situación de aprendizaje, están estrechamente vinculados con la adquisición de las Competencias Específicas detalladas en el anterior punto.</p>\n<h5>Para la CE2:</h5>\n<ul>\n<li><strong>Criterio 2.2</strong> - Se evalúa la capacidad de analizar mensajes, identificar manipulaciones y respetar los derechos de autoría.</li>\n<li><strong>Criterio 2.3 </strong>- Se valora la ejecución técnica de la producción, incluyendo el uso expresivo del sonido atendiendo a sus características formales.</li>\n</ul>\n<h5>Para la CE3:</h5>\n<ul>\n<li><strong>Criterio 3.3</strong> - Evalúa la habilidad para resolver problemas surgidos durante la producción mediante una planificación abierta y flexible.</li>\n<li><strong>Criterio 3.4</strong> - Valora el uso correcto de las convenciones del lenguaje audiovisual y la eficacia del trabajo en equipo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq5ic76-m98r0lgms</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq5ic76-m98r0lgms</odePageId>
+      <odeBlockId>block-1777843922332-ymvosaayd</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq5ic76-m98r0lgms</odePageId>
+          <odeBlockId>block-1777843922332-ymvosaayd</odeBlockId>
+          <odeIdeviceId>idevice-1777843922330-dhwawuxxm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se fomenta que el alumnado esté en el centro de su propio aprendizaje utilizando alguna de las metodologías activas. En esta situación de aprendizaje se utilizan las siguientes:</p>
+<h5>Aprendizaje Basado en Proyectos (ABP):</h5>
+<p>Esta metodología es especialmente adecuada para el componente práctico de la materia. Al diseñar la banda sonora y la infografía, el alumnado participa en un plan de trabajo pautado (preproducción, rodaje/grabación y postproducción) para obtener un producto final. El ABP permite integrar diferentes destrezas comunicativas y construir un aprendizaje significativo que el alumnado transfiere a situaciones de la vida real.</p>
+<h5>Aprendizaje Cooperativo y Colaborativo:</h5>
+<p>Para que esta metodología sea efectiva, se deben dar tres condiciones:<br />-<strong> Interdependencia positiva:</strong> El éxito del proyecto depende del esfuerzo de todos los miembros.<br />- <strong>Participación equitativa:</strong> Reparto de tareas según habilidades (sonido, edición, guion).<br />- <strong>Responsabilidad individual:</strong> Cada alumno asume un rol autónomo en la resolución creativa del reto.</p>
+<h5>Metacognición y Tratamiento del Error</h5>
+<p>Implica que el alumnado reflexione sobre sus propios procesos mentales. La elaboración de la infografía donde identifican las "barreras encontradas" permite ver el error como oportunidad de aprendizaje y mejora a lo largo de todo el proceso y fomenta la autoevaluación y coevaluación haciendo al alumnado partícipe de sus propios logros.</p>
+<h5>Flipped Classroom (Aula Invertida)</h5>
+<p>Permite destinar todo el tiempo invertido en las sesiones donde se produce esta situación para la resolución de dudas y para la ejecución del proyecto. Se hace necesaria en las fases iniciales de recolección y selección de información. El alumnado en esta fase debe investigar sobre teoría de la narrativa sonora y búsqueda de referentes, así como seleccionar el material con el que después va a trabajar. De esta forma, el aprendizaje se convierte en una experiencia activa, dinámica y significativa.</p>
+<h5>Diseño Universal para el Aprendizaje (DUA)</h5>
+<p>Las situaciones de aprendizaje deben estar alineadas con los principios del DUA para garantizar la inclusión y el acceso al currículo de todo el alumnado. Esta actividad responde de la siguiente manera:</p>
+<p>- Múltiples formas de <strong>representación </strong>(Principio I): Investigando referentes sonoros a través de diversos formatos (vídeo, audio, textos).</p>
+<p>- Múltiples formas de <strong>expresión</strong> (Principio II): Permitiendo que demuestren lo aprendido mediante la producción sonora, la infografía interactiva y la defensa oral.</p>
+<p>- Múltiples formas de <strong>implicación</strong> (Principio III): Partiendo de temáticas libres que conecten con sus centros de interés.<br /><br /><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777843922330-dhwawuxxm","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Se fomenta que el alumnado esté en el centro de su propio aprendizaje utilizando alguna de las metodologías activas. En esta situación de aprendizaje se utilizan las siguientes:</p>\n<h5>Aprendizaje Basado en Proyectos (ABP):</h5>\n<p>Esta metodología es especialmente adecuada para el componente práctico de la materia. Al diseñar la banda sonora y la infografía, el alumnado participa en un plan de trabajo pautado (preproducción, rodaje/grabación y postproducción) para obtener un producto final. El ABP permite integrar diferentes destrezas comunicativas y construir un aprendizaje significativo que el alumnado transfiere a situaciones de la vida real.</p>\n<h5>Aprendizaje Cooperativo y Colaborativo:</h5>\n<p>Para que esta metodología sea efectiva, se deben dar tres condiciones:<br />-<strong> Interdependencia positiva:</strong> El éxito del proyecto depende del esfuerzo de todos los miembros.<br />- <strong>Participación equitativa:</strong> Reparto de tareas según habilidades (sonido, edición, guion).<br />- <strong>Responsabilidad individual:</strong> Cada alumno asume un rol autónomo en la resolución creativa del reto.</p>\n<h5>Metacognición y Tratamiento del Error</h5>\n<p>Implica que el alumnado reflexione sobre sus propios procesos mentales. La elaboración de la infografía donde identifican las \"barreras encontradas\" permite ver el error como oportunidad de aprendizaje y mejora a lo largo de todo el proceso y fomenta la autoevaluación y coevaluación haciendo al alumnado partícipe de sus propios logros.</p>\n<h5>Flipped Classroom (Aula Invertida)</h5>\n<p>Permite destinar todo el tiempo invertido en las sesiones donde se produce esta situación para la resolución de dudas y para la ejecución del proyecto. Se hace necesaria en las fases iniciales de recolección y selección de información. El alumnado en esta fase debe investigar sobre teoría de la narrativa sonora y búsqueda de referentes, así como seleccionar el material con el que después va a trabajar. De esta forma, el aprendizaje se convierte en una experiencia activa, dinámica y significativa.</p>\n<h5>Diseño Universal para el Aprendizaje (DUA)</h5>\n<p>Las situaciones de aprendizaje deben estar alineadas con los principios del DUA para garantizar la inclusión y el acceso al currículo de todo el alumnado. Esta actividad responde de la siguiente manera:</p>\n<p>- Múltiples formas de <strong>representación </strong>(Principio I): Investigando referentes sonoros a través de diversos formatos (vídeo, audio, textos).</p>\n<p>- Múltiples formas de <strong>expresión</strong> (Principio II): Permitiendo que demuestren lo aprendido mediante la producción sonora, la infografía interactiva y la defensa oral.</p>\n<p>- Múltiples formas de <strong>implicación</strong> (Principio III): Partiendo de temáticas libres que conecten con sus centros de interés.<br /><br /><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777844783597-50cu2aq1r</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777844783597-50cu2aq1r</odePageId>
+      <odeBlockId>block-1777845165193-5ha98gk2o</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777844783597-50cu2aq1r</odePageId>
+          <odeBlockId>block-1777845165193-5ha98gk2o</odeBlockId>
+          <odeIdeviceId>idevice-1777845165191-r33zwb5dl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vinculación con los programas marco del centro de acuerdo con el Decreto 60/2022:</p>
+<h5>Vinculación con el PLEI (Plan de lectura, escritura e innovación):</h5>
+<p>Esta SdA fomenta la lectura en la fase de búsqueda de información y selección de recursos y referentes del mundo sonoro, de esta manera también analiza de forma crítica la fiabilidad de las fuentes. Durante el desarrollo del guion para el doblaje así como en la redacción en la exposición oral , la presentación escrita y la infografía, el alumnado promueve la adecuación y coherencia escrita. </p>
+<h5>Vinculación con el PAD (Plan de Atención a la Diversidad)</h5>
+<p>La atención a la diversidad se define como el conjunto de actuaciones dirigidas a dar respuesta a las diferentes capacidades, ritmos y estilos de aprendizaje. La SdA propuesta contribuye aportando múltiples formas de representación en la fase de investigación y selección de referentes, ya que esta información puede ser audiovisual, escrita, sonora, etc. Aplica, también, múltiples formas de expresión con los productos finales evaluables (infografía, vídeo, sonido, grabación de voz, ...). Al proponer temática libre, se alinea con las formas de implicación. </p>
+<p>Atendiendo a los distintos ritmos de aprendizaje y alumnado con necesidades específicas, se impulsa la formación de grupos heterogéneos y se incentiva el trabajo cooperativo facilitando la asunción de responsabilidades de forma autónoma.</p>
+<p>Se facilita también la flexibilidad gracias al enfoque metodológico que permita hacer los ajustes razonables según las barreras que se identifican en el desarrollo de la SdA.</p>
+<h5>Vinculación con el PDC (Plan de Convivencia)</h5>
+<p>La materia de Cultura Audiovisual contribuye a la educación en valores democráticos y la resolución pacífica de conflictos mediante el trabajo colaborativo.</p>
+<p>Se requiere de una actuación coordinada en el proyecto de tareas y de roles. El respeto y la tolerancia para la resolución de imprevistos que surgen en el desarrollo del proyecto se hace esencial.</p>
+<p>Se promoverá un lenguaje inclusivo en los guiones y doblajes del vídeo final que favorezca la igualdad de trato entre el alumnado. </p>
+<p>Al realizar búsquedas de recursos y contenido, se impulsará el uso responsable de los medios digitales respetando la propiedad intelectual y de una manera crítica y ética.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777845165191-r33zwb5dl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vinculación con los programas marco del centro de acuerdo con el Decreto 60/2022:</p>\n<h5>Vinculación con el PLEI (Plan de lectura, escritura e innovación):</h5>\n<p>Esta SdA fomenta la lectura en la fase de búsqueda de información y selección de recursos y referentes del mundo sonoro, de esta manera también analiza de forma crítica la fiabilidad de las fuentes. Durante el desarrollo del guion para el doblaje así como en la redacción en la exposición oral , la presentación escrita y la infografía, el alumnado promueve la adecuación y coherencia escrita. </p>\n<h5>Vinculación con el PAD (Plan de Atención a la Diversidad)</h5>\n<p>La atención a la diversidad se define como el conjunto de actuaciones dirigidas a dar respuesta a las diferentes capacidades, ritmos y estilos de aprendizaje. La SdA propuesta contribuye aportando múltiples formas de representación en la fase de investigación y selección de referentes, ya que esta información puede ser audiovisual, escrita, sonora, etc. Aplica, también, múltiples formas de expresión con los productos finales evaluables (infografía, vídeo, sonido, grabación de voz, ...). Al proponer temática libre, se alinea con las formas de implicación. </p>\n<p>Atendiendo a los distintos ritmos de aprendizaje y alumnado con necesidades específicas, se impulsa la formación de grupos heterogéneos y se incentiva el trabajo cooperativo facilitando la asunción de responsabilidades de forma autónoma.</p>\n<p>Se facilita también la flexibilidad gracias al enfoque metodológico que permita hacer los ajustes razonables según las barreras que se identifican en el desarrollo de la SdA.</p>\n<h5>Vinculación con el PDC (Plan de Convivencia)</h5>\n<p>La materia de Cultura Audiovisual contribuye a la educación en valores democráticos y la resolución pacífica de conflictos mediante el trabajo colaborativo.</p>\n<p>Se requiere de una actuación coordinada en el proyecto de tareas y de roles. El respeto y la tolerancia para la resolución de imprevistos que surgen en el desarrollo del proyecto se hace esencial.</p>\n<p>Se promoverá un lenguaje inclusivo en los guiones y doblajes del vídeo final que favorezca la igualdad de trato entre el alumnado. </p>\n<p>Al realizar búsquedas de recursos y contenido, se impulsará el uso responsable de los medios digitales respetando la propiedad intelectual y de una manera crítica y ética.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777844793586-3wzt1n78e</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777844793586-3wzt1n78e</odePageId>
+      <odeBlockId>block-1777845027671-zm7rpevpp</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777844793586-3wzt1n78e</odePageId>
+          <odeBlockId>block-1777845027671-zm7rpevpp</odeBlockId>
+          <odeIdeviceId>idevice-1777845027670-tiypswrw9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la situación de aprendizaje descrita no existen actividades complementarias ni extraescolares.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777845027670-tiypswrw9","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Para la situación de aprendizaje descrita no existen actividades complementarias ni extraescolares.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777844803001-lk47gekp4</odePageId>
+  <odeParentPageId>page-moq5ic75-t3r5fvl6h</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777844803001-lk47gekp4</odePageId>
+      <odeBlockId>block-1777852983036-ch28089x0</odeBlockId>
+      <blockName>Download source file</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777844803001-lk47gekp4</odePageId>
+          <odeBlockId>block-1777852983036-ch28089x0</odeBlockId>
+          <odeIdeviceId>idevice-1777852983032-o3ev5syxq</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">La arquitectura del sonido: nuestra BSO con foley</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Paula Araújo Losas</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
